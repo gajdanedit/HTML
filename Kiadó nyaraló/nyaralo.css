@@ -1,0 +1,77 @@
+body {
+    background-image: url(erdo.jpg);
+    background-color: #CCFFCC;
+    color: #004400;
+    margin: 25px 240px 100px 240px;
+}
+
+#header-text {
+    text-align: center;
+}
+
+center:after {
+    font-size: +1;
+} 
+
+a {
+    color: #007700;
+}
+
+table {
+    text-align: center;
+    border: solid;
+    border-width: 2px;
+    width: 480px;
+}
+
+td {
+    border: groove;
+    border-width: 4px;
+    padding: 8px;
+}
+
+th {
+    text-align: center;
+    width: 120px;
+    border: groove;
+    border-width: 4px;
+    padding: 8px;
+}
+
+.td-center {
+    text-align: center;
+}
+
+.td-right {
+    text-align: right;
+}
+
+p {
+    text-align: center;
+}
+
+hr {
+    color: #004400;
+    background-color: #004400;
+    height: 4px;
+    width: 100%;
+    position: absolute;
+    width: 80%;
+}
+
+.gif {
+    text-align: right; width: 160px;
+    margin-left: 90%;
+}
+
+.fost {
+    border: 0;
+    margin: 1px;
+    padding: 1px;
+}
+
+.bolondos {
+    width: 150px;
+    height: 120px;
+    border: 0px;
+}

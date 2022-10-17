@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+table tr td table tr td img {
+    width:125px;
+}
+
+h1{
+    color: #999999;
+}
+
+td {
+    margin: 10px;
+    padding: 4px;
+}
+
+.t-l {
+    float: left;
+    color: red;
+}
+
+.t-r {
+    float: right;
+}
+.asdasd {
+    margin-top: -50px;
+}
+
+.hegedus-lebron {
+        margin-top: -145px;
+}

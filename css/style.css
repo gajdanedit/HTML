@@ -1,0 +1,38 @@
+table{
+    border: 2px black; 
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px;
+    border-style:dotted;
+    width: 50%
+}
+
+td, th{
+    border: solid 1px;
+}
+
+th{
+    text-align: left;
+}
+
+td{
+    padding: 5px 10px 15px 5px;
+}
+
+#kiemelt{
+    padding: 5px 10px 15px 5px;
+    border: solid;
+    border-width: 15px 10px 5px 3px;
+    border-color: hotpink; 
+    background-color: hotpink;
+}
+
+.bekezdes{
+    color: blue;
+}
+
+.fontos{
+    font-weight: bold;
+    font-style: italic;
+    color:green;
+}
