@@ -1,0 +1,36 @@
+#logo {
+    padding-left: 30px;
+    width: 100px;
+
+}
+
+nav {
+    background: linear-gradient(90deg, #2f1624, #ab1e4c);
+}
+
+.nav-link {
+    color: white;
+    padding-left: 15px;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    color: #8a1538;
+}
+
+section {
+    margin-top: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+footer {
+    background: linear-gradient(90deg, #2f1624, #ab1e4c);
+    color: white;
+    padding: 5px;
+}
